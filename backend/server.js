@@ -11,5 +11,5 @@ app.use(express.json());
 app.use('/api', aqiRoutes);
 
 app.listen(PORT, () => {
-  console.log(`✅ DataLens API running → http://localhost:${PORT}`);
+  console.log(`DataLens API running → http://localhost:${PORT}`);
 });
