@@ -1,6 +1,7 @@
 const router = require('express').Router();
 const axios = require('axios');
 
+// List indonesia big cities
 const CITIES = [
   { id: 'jakarta',    name: 'Jakarta',    lat: -6.21,  lon: 106.85 },
   { id: 'surabaya',   name: 'Surabaya',   lat: -7.26,  lon: 112.75 },
