@@ -7,7 +7,7 @@
 ![Skills](https://skillicons.dev/icons?i=js,react) <br/><br/>
 
 ### Project Overview <br/>
-<img width="414" height="850" alt="image" src="https://github.com/user-attachments/assets/c296c125-a95f-413b-bc95-6e75af1b3de4" />
-<img width="1173" height="779" alt="image" src="https://github.com/user-attachments/assets/b334bd6b-40a9-4667-9d94-af757eceeb93" />
+<img width="200" height="425" alt="image" src="https://github.com/user-attachments/assets/c296c125-a95f-413b-bc95-6e75af1b3de4" />
+<img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/b334bd6b-40a9-4667-9d94-af757eceeb93" />
 
 
